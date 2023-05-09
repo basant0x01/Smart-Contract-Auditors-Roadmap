@@ -4,7 +4,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - basant0x
 ### 1. Blockchain & Ethereum Basics
 - Blockchain
   - [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10&ab_channel=CodingTech)
-  - [Blockchain Full Course in Hindi](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0)
+  - [Blockchain Full Course - CodeEater](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0)
   - [Blockchain Topics in Summary](https://github.com/basant-karki/blockchain-learnings)
 - Ethereum
   - [Ethereum 101](https://github.com/x676f64/secureum-mind_map/blob/master/1.%20Ethereum%20101.md)
@@ -13,7 +13,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - basant0x
   
 ### 2. Solidity Programmings & Fundamentals
 - Solidity Programming
-  - [Basic Understanding on Solidity](https://www.youtube.com/watch?v=65XiLy5Cxxk&ab_channel=D-Squared)
+  - [Solidity Full Course - CodeEater](https://youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i)
   - [Solidity 0.8 by Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
   - [Solidity by Example](https://solidity-by-example.org/)
   - [Solidity 101](https://github.com/x676f64/secureum-mind_map/blob/master/2.%20Solidity%20101.md)
