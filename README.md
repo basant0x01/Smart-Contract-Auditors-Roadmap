@@ -7,7 +7,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - basant0x
   - [Blockchain Full Course - CodeEater](https://youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0)
   - [Blockchain Topics in Summary](https://github.com/basant-karki/blockchain-learnings)
 - Ethereum
-  - [Ethereum 101](https://github.com/x676f64/secureum-mind_map/blob/master/1.%20Ethereum%20101.md)
+  - [Ethereum 101](https://github.com/x676f64/secureum-mind_map/blob/master/1.%20Ethereum%20101.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-XLwiVpDqWi_lwtDrzcZG9K)
   - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) [ Note: chapters 1,4,5,6,7,9,13 & 14 are Mandatory ]
   - [Quiz (1) - Ethereum](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/1.%20Ethereum%20101.md)
   
@@ -16,8 +16,8 @@ One of the best roadmap to become a Successful Smart Contract Auditor - basant0x
   - [Solidity Full Course - CodeEater](https://youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i)
   - [Solidity 0.8 by Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
   - [Solidity by Example](https://solidity-by-example.org/)
-  - [Solidity 101](https://github.com/x676f64/secureum-mind_map/blob/master/2.%20Solidity%20101.md)
-  - [Solidity 201](https://github.com/x676f64/secureum-mind_map/blob/master/3.%20Solidity%20201.md)
+  - [Solidity 101](https://github.com/x676f64/secureum-mind_map/blob/master/2.%20Solidity%20101.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-WS5r8UjaWnnAeCHTH3wRaF)
+  - [Solidity 201](https://github.com/x676f64/secureum-mind_map/blob/master/3.%20Solidity%20201.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-V9w6UZ_YOQYjG5NPqnRwdc)
   - [Each Topics are Compulsory - Smart Contract Engineer](https://www.smartcontract.engineer/challenges)
 - Fundamentals
   - [Awesome-Solidity-Gas-Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization)
@@ -60,8 +60,8 @@ One of the best roadmap to become a Successful Smart Contract Auditor - basant0x
   - [Solcurity](https://github.com/transmissions11/solcurity)
   - [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
   - [Consensys Smart-contract-best-practices](https://consensys.github.io/smart-contract-best-practices/)
-  - [Security Pitfalls & Best Practices 101](https://github.com/x676f64/secureum-mind_map/blob/master/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
-  - [Security Pitfalls & Best Practices 201](https://github.com/x676f64/secureum-mind_map/blob/master/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+  - [Security Pitfalls & Best Practices 101](https://github.com/x676f64/secureum-mind_map/blob/master/4.%20Pitfalls%20and%20Best%20Practices%20101.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-XLdPc9Do8dWnjqtFcaDWEG)
+  - [Security Pitfalls & Best Practices 201](https://github.com/x676f64/secureum-mind_map/blob/master/5.%20Pitfalls%20and%20Best%20Practices%20201.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-Urml835vJRec_hbPJYIb33)
   - [Quiz (4) - SSBP](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 
 ### Credits:
