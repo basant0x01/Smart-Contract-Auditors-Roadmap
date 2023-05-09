@@ -24,7 +24,12 @@ One of the best roadmap to become a Successful Smart Contract Auditor - basant0x
   - [Quiz (1) - Solidity](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/2.%20Solidity%20101.md)
   - [Quiz (2) - Solidity](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/3.%20Solidity%20201.md)
 - Assignments
-  - [ Smart Contract Projects ] Examples: Lottory, Crowd fundings etc
+  - Solidity Smart Contract Projects
+    - [Project 1 - Lottory](https://youtu.be/aFI_XPll_mg)
+    - [Project 2 - CrowdFunding](https://youtu.be/2SNr-PJmcZE)
+    - [Project 3 - Event Orginazation](https://youtu.be/2rW4kYGRkhI)
+    - [Project 4 - Multi-Signature Wallet](https://youtu.be/uoQhMFAZ6V0)
+    - 4 More Projects from your side
 
 ### 3. Testing and Debugging Frameworks
 - Common Frameworks
