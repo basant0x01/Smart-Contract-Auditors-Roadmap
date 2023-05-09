@@ -1,5 +1,5 @@
 # Smart-Contract-Auditor's-Roadmap
-One of the best roadmap to become a Successful Smart Contract Auditor - basant0x01
+One of the best roadmap to become a Successful Smart Contract Auditor - [basant0x01](https://twitter.com/basant0x01)
 
 ### 1. Blockchain & Ethereum Basics
 - Blockchain
