@@ -14,6 +14,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 ### 2. Solidity Programmings & Fundamentals
 - Solidity Programming
   - [Solidity Full Course - CodeEater](https://youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i)
+  - [Solidity ^0.8 | Blockchain | In Hindi - Pepcoding](https://youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh)
   - [Solidity 0.8 by Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
   - [Solidity by Example](https://solidity-by-example.org/)
   - [Solidity 101](https://github.com/x676f64/secureum-mind_map/blob/master/2.%20Solidity%20101.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-WS5r8UjaWnnAeCHTH3wRaF)
