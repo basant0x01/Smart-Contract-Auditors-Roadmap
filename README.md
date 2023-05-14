@@ -84,7 +84,11 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
   - [Uncover Smart Contract Security Loopholes: Auditing Course | Module-A | Code Eater | Hindi](https://youtu.be/SW00aohiwf4)
   - [Hack Solidity - Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
 
-### 9. CTF Challenges:
+### 9. NFT & DeFi Attack Vectors
+  - [Defi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
+  - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
+
+### 10. CTF Challenges:
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
   - [Capture The Ether](https://capturetheether.com/)
   - [QuillCTF](https://www.quillaudits.com/academy/ctf)
@@ -96,7 +100,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 
 100+ CTF blockchain challenges: https://github.com/minaminao/ctf-blockchain
 
-### 10. Finance and DeFi:
+### 11. Finance and DeFi:
   - Finance
     - [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
 
