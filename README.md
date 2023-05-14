@@ -85,7 +85,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
   - [Hack Solidity - Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
 
 ### 9. NFT & DeFi Attack Vectors
-  - [Defi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
+  - [DeFi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
   - [NFT Attack Vectors](https://github.com/Quillhash/NFT-Attack-Vectors)
 
 ### 10. CTF Challenges:
