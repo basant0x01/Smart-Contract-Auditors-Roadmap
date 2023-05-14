@@ -76,6 +76,30 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
   - [Quiz (7) AF-1](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/7.%20Audit%20Fndings%20101.md) | [Writeups](https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-101-quiz)
   - [Quiz (8) AF-2](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/8.%20Audit%20Findings%20201.md) | [Writeups](https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-201-quiz)
 
+### 8. Smart Contract Vulnerabilities:
+  - [SWC Registry](https://swcregistry.io/)
+  - [Kaden: Smart Contract Attack Vectors](https://github.com/kadenzipfel/smart-contract-vulnerabilities)
+  - [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
+  - [Common Vulnerabilities in Smart contracts MindMap](https://github.com/Anugrahsr/Awesome-web3-Security/blob/main/image/Vulnerabilities_in_Smart_contracts.png)
+  - [Uncover Smart Contract Security Loopholes: Auditing Course | Module-A | Code Eater | Hindi](https://youtu.be/SW00aohiwf4)
+  - [Hack Solidity - Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
+
+### 9. CTF Challenges:
+  - [Ethernaut](https://ethernaut.openzeppelin.com/)
+  - [Capture The Ether](https://capturetheether.com/)
+  - [QuillCTF](https://www.quillaudits.com/academy/ctf)
+  - [Curta CTF](https://www.curta.wtf)
+  - [Paradigm CTF](https://ctf.paradigm.xyz/)
+  - [ciphershastra CTF](https://ciphershastra.com/index.html)
+  - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  - [unhackedctf](https://github.com/unhackedctf)
+
+100+ CTF blockchain challenges: https://github.com/minaminao/ctf-blockchain
+
+### 10. Finance and DeFi:
+  - Finance
+    - [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
+
 ### Credits:
 - MindMap References
   - [Secureum Mind Map](https://github.com/x676f64/secureum-mind_map)
