@@ -63,7 +63,18 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
   - [Consensys Smart-contract-best-practices](https://consensys.github.io/smart-contract-best-practices/)
   - [Security Pitfalls & Best Practices 101](https://github.com/x676f64/secureum-mind_map/blob/master/4.%20Pitfalls%20and%20Best%20Practices%20101.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-XLdPc9Do8dWnjqtFcaDWEG)
   - [Security Pitfalls & Best Practices 201](https://github.com/x676f64/secureum-mind_map/blob/master/5.%20Pitfalls%20and%20Best%20Practices%20201.md) | [Videos](https://youtube.com/playlist?list=PLYORQHvGMg-Urml835vJRec_hbPJYIb33)
-  - [Quiz (4) - SSBP](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+  - [Quiz (4) - SSBP-1](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
+  - [Quiz (5) - SSBP-2](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+
+### 6. Audit Techniques & Tools:
+  - [Audit Techniques & Tools 101](https://github.com/x676f64/secureum-mind_map/blob/master/6.%20Audit%20Techniques%20and%20Tools%20101.md) | [Videos](https://youtu.be/8IbkWnTLueU)
+  - [Quiz (6) - AT&T](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/6.%20Audit%20Techniques%20and%20Tools%20101.md)
+
+### 7. Audit Findings:
+  - [Audit Findings 101](https://github.com/x676f64/secureum-mind_map/blob/master/7.%20Audit%20Findings%20101.md) | [Videos](https://youtu.be/b6zEWJwMcGc)
+  - [Audit Findings 201](https://github.com/x676f64/secureum-mind_map/blob/master/8.%20Audit%20Findings%20201.md) | [Videos](https://youtu.be/b6zEWJwMcGc)
+  - [Quiz (7) AF-1](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/7.%20Audit%20Fndings%20101.md) | [Writeups](https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-101-quiz)
+  - [Quiz (8) AF-2](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/8.%20Audit%20Findings%20201.md) | [Writeups](https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-201-quiz)
 
 ### Credits:
 - MindMap References
