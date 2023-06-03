@@ -30,6 +30,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
     - [Project 2 - CrowdFunding](https://youtu.be/2SNr-PJmcZE)
     - [Project 3 - Event Orginazation](https://youtu.be/2rW4kYGRkhI)
     - [Project 4 - Multi-Signature Wallet](https://youtu.be/uoQhMFAZ6V0)
+    - [More Projects](https://youtube.com/playlist?list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)
     - 4 More Projects from your side
 
 ### 3. Testing and Debugging Frameworks
