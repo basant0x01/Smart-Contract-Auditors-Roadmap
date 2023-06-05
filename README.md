@@ -70,15 +70,28 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 ### 6. Audit Techniques & Tools:
   - [Audit Techniques & Tools 101](https://github.com/x676f64/secureum-mind_map/blob/master/6.%20Audit%20Techniques%20and%20Tools%20101.md) | [Videos](https://youtu.be/8IbkWnTLueU)
   - [Quiz (6) - AT&T](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/6.%20Audit%20Techniques%20and%20Tools%20101.md)
- 
     - Auditing Tools:
-      - [Slither]()
-      - [Mythril]()
-      - [Mythx]()
-      - [Echidna]()
-      - [Foundry FUZZ]()
-      - [Manticore]()
-      - [Surya]()
+      - [Slither](https://github.com/crytic/slither)
+      - [Mythril](https://github.com/ConsenSys/mythril)
+      - [Mythx](https://mythx.io/)
+      - [Echidna](https://github.com/crytic/echidna)
+      - [Foundry FUZZ](https://book.getfoundry.sh/forge/fuzz-testing)
+      - [Manticore](https://github.com/trailofbits/manticore)
+      - [Surya](https://github.com/ConsenSys/surya)
+  - VS Code Extensions
+      - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+      - [Solidity Metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics)
+      - [Slither VSC](https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode)
+      - [EthOver](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-ethover)
+  
+  - Auditing Books and Guides
+      - [The Auditors Book](https://theauditorbook.com/)
+      - [Audit Hero](https://audit-hero.com/search-findings)
+      - [solodit.xyz](https://solodit.xyz/dashboard)
+      - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+
+  - [Complete List of Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools)
+
 
 
 
