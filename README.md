@@ -92,6 +92,13 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 
 ### 9.1 DeFi Attack Vectors
   - [DeFi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
+  - [Flash Loan Attack](https://www.moonpay.com/blog/defi-flash-loans-explained)
+  - [Price Oracle Manipulation](https://medium.com/beaver-smartcontract-security/defi-security-lecture-7-price-oracle-manipulation-d716cdeaaf77)
+  - [Front-Running](https://www.securing.pl/en/front-running-attack-in-defi-applications-how-to-deal-with-it/)
+  - [Exit Scams](https://www.acamstoday.org/cryptocurrency-exit-scams-what-they-are-and-how-to-avoid-them/)
+  - [Sandwich attacks](https://trustwallet.com/blog/how-to-protect-yourself-from-sandwich-attacks)
+  - [Unlimited Token Allowance](https://kalis.me/unlimited-erc20-allowances/)
+
 
 ### 10. CTF Challenges:
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
@@ -105,9 +112,11 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 
 100+ CTF blockchain challenges: https://github.com/minaminao/ctf-blockchain
 
-### 11. Finance and DeFi:
-  - Finance
-    - [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
+### 11. Well known DeFi Protocols:
+   - [Uniswap](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
+   - [Compound](https://learn.bybit.com/defi/what-is-compound-crypto/)
+   - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
+   - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
 
 ### Credits:
 - MindMap References
