@@ -90,7 +90,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
   - [DeFi - Teachyourselfcrypto](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
   - [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
 
-### 9.1 NFT & DeFi Attack Vectors
+### 9.1 DeFi Attack Vectors
   - [DeFi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
 
 ### 10. CTF Challenges:
