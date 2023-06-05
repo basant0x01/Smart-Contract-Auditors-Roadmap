@@ -139,7 +139,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
    - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
    - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
 
-### 12. Postmortem & Audit Reports: [ 3 Weeks ]
+### 12. Postmortem & Audit Reports: [ 4 Weeks ]
 
   - Postmortems:
         [Immunefi](https://medium.com/@immunefi)
@@ -156,7 +156,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
         [Openzeppelin](https://blog.openzeppelin.com/security-audits/)
         [OfferCIA](https://officercia.mirror.xyz/)
 
-   - Audit Report Reading [ 3 Weeks ]
+   - Audit Report Reading
         [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
         [Code4rena](https://code4rena.com/reports)
         [Sherlock](https://github.com/sherlock-audit)
