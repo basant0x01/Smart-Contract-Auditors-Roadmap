@@ -70,6 +70,17 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 ### 6. Audit Techniques & Tools:
   - [Audit Techniques & Tools 101](https://github.com/x676f64/secureum-mind_map/blob/master/6.%20Audit%20Techniques%20and%20Tools%20101.md) | [Videos](https://youtu.be/8IbkWnTLueU)
   - [Quiz (6) - AT&T](https://github.com/x676f64/secureum-mind_map/blob/master/quizzes/6.%20Audit%20Techniques%20and%20Tools%20101.md)
+ 
+    - Auditing Tools:
+      - [Slither]()
+      - [Mythril]()
+      - [Mythx]()
+      - [Echidna]()
+      - [Foundry FUZZ]()
+      - [Manticore]()
+      - [Surya]()
+
+
 
 ### 7. Audit Findings:
   - [Audit Findings 101](https://github.com/x676f64/secureum-mind_map/blob/master/7.%20Audit%20Findings%20101.md) | [Videos](https://youtu.be/b6zEWJwMcGc)
