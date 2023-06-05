@@ -85,8 +85,10 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
   - [Uncover Smart Contract Security Loopholes: Auditing Course | Module-A | Code Eater | Hindi](https://youtu.be/SW00aohiwf4)
   - [Hack Solidity - Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
 
-### 9 Learn DeFi
+### 9 Learn DeFi (Decentralized Finance)
   - [DeFi: Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
+  - [DeFi - Teachyourselfcrypto](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
+  - [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
 
 ### 9.1 NFT & DeFi Attack Vectors
   - [DeFi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
