@@ -92,9 +92,6 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 
   - [Complete List of Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools)
 
-
-
-
 ### 7. Audit Findings:
   - [Audit Findings 101](https://github.com/x676f64/secureum-mind_map/blob/master/7.%20Audit%20Findings%20101.md) | [Videos](https://youtu.be/b6zEWJwMcGc)
   - [Audit Findings 201](https://github.com/x676f64/secureum-mind_map/blob/master/8.%20Audit%20Findings%20201.md) | [Videos](https://youtu.be/b6zEWJwMcGc)
@@ -141,6 +138,34 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
    - [Compound](https://learn.bybit.com/defi/what-is-compound-crypto/)
    - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
    - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
+
+### 10. Postmortem & Audit Reports:
+
+  - Postmortems:
+        [Immunefi](https://medium.com/@immunefi)
+        [QuillAudits](https://quillaudits.medium.com/)
+        [BlockSec](https://blocksecteam.medium.com/)
+        [SlowMist](https://slowmist.medium.com/)
+        [Rekt News](https://rekt.news/)
+        [Neptune Mutual](https://medium.com/@neptunemutual)
+        [PeckShield](https://twitter.com/peckshield)
+        [hacxyk](https://medium.com/@hacxyk)
+        [Coinmonk](https://medium.com/coinmonks)
+        [TrailOfBits](https://blog.trailofbits.com/)
+        [Secureum](https://secureum.substack.com/)
+        [Openzeppelin](https://blog.openzeppelin.com/security-audits/)
+        [OfferCIA](https://officercia.mirror.xyz/)
+
+   - Audit Report Reading
+        [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
+        [Code4rena](https://code4rena.com/reports)
+        [Sherlock](https://github.com/sherlock-audit)
+        [Spearbit](https://github.com/spearbit/portfolio/tree/master/pdfs)
+        [Consensys](https://consensys.net/diligence/audits/)
+        [Openzeppelin](https://blog.openzeppelin.com/security-audits/)
+        [Chainsecurity](https://chainsecurity.com/audits/)
+        [Ackee Audit Reports](https://ackeeblockchain.com/blog/)
+        [Complete List of Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 
 ### Credits:
 - MindMap References
