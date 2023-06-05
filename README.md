@@ -84,7 +84,7 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
       - [Slither VSC](https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode)
       - [EthOver](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-ethover)
   
-  - Auditing Books and Guides [ 2 Weeks ]
+  - Auditing Books and Guides
       - [The Auditors Book](https://theauditorbook.com/)
       - [Audit Hero](https://audit-hero.com/search-findings)
       - [solodit.xyz](https://solodit.xyz/dashboard)
