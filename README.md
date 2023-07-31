@@ -171,3 +171,4 @@ One of the best roadmap to become a Successful Smart Contract Auditor - [basant0
 - MindMap References
   - [Secureum Mind Map](https://github.com/x676f64/secureum-mind_map)
   - [QuillAudit Auditor Roadmap](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap)
+  - [Auditors Roadmap by Razzorsec](https://github.com/razzorsec/AuditorsRoadmap)
